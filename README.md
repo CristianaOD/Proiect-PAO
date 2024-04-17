@@ -1,6 +1,6 @@
 📒Tema proiectului este crearea unei aplicatii care foloseste interogari asupra unui catalog.
 
-# Etapa I 
+# Etapa I 📖
 
 ## 1) Definirea sistemului 
 
