@@ -1,4 +1,4 @@
-Tema proiectului este crearea unei aplicatii care foloseste interogari asupra unui catalog.
+📒Tema proiectului este crearea unei aplicatii care foloseste interogari asupra unui catalog.
 
 # Etapa I 
 
@@ -14,11 +14,15 @@ Sa se implementeze în limbajul Java o aplicație pe baza celor definite la prim
 Aplicația va conține: 
 
 • clase simple cu atribute private / protected și metode de acces 
+
 • cel puțin 2 colecții diferite capabile să gestioneze obiectele definiteanterior (eg: List, Set, Map, 
 etc.) dintre care cel puțin una sa fie sortata – se vor folosi array-uri uni- /bidimensionale în cazul în care 
 nu se parcurg colectiile pana la data checkpoint-ului. 
+
 • utilizare moștenire pentru crearea de clase adiționale și utilizarea lor încadrul colecțiilor; 
+
 • cel puțin o clasă serviciu care sa expună operațiile sistemului 
+
 • o clasa Main din care sunt făcute apeluri către servicii 
 
 În acest proiect am folosit 8 tipuri de clase diferite:
