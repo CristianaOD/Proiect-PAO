@@ -1,13 +1,13 @@
 Tema proiectului este crearea unei aplicatii care foloseste interogari asupra unui catalog.
 
-## Etapa I 
+# Etapa I 
 
-# 1) Definirea sistemului 
+## 1) Definirea sistemului 
 
 Să se creeze o lista pe baza temei alese cu cel puțin 10 acțiuni/interogări care se pot face în cadrul 
 sistemului și o lista cu cel puțin 8 tipuri de obiecte. 
 
-# 2) Implementare 
+## 2) Implementare 
 
 Sa se implementeze în limbajul Java o aplicație pe baza celor definite la primul punct. 
 
