@@ -15,6 +15,7 @@ public class Catalog extends Clasa{
     }*/
 
     public Catalog(int numar, String anScolar) {
+        // constructorul clasei de baza trebuie sa fie apelat pentru a inițializa membrii moșteniti ai clasei
         super(numar, anScolar);
         this.materii = new ArrayList<>();
         this.noteStudenti = new HashMap<>();
@@ -58,7 +59,7 @@ public class Catalog extends Clasa{
 
     }
 
-    //  returna o reprezentare sub formă de sir a obiectului de tip Catalog
+    //  returneaza o reprezentare sub forma de sir a obiectului de tip Catalog
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();

@@ -11,7 +11,6 @@ public class Sesiune {
 
     public Sesiune(String tipSesiune, String perioada, int an) {
         this.tipSesiune = tipSesiune;
-        this.tipSesiune = tipSesiune;
         this.perioada = perioada;
         this.an = an;
     }
